@@ -3,6 +3,10 @@ body {
   font-size: 16px;
 }
 
+.the-template {
+  display:none;
+}
+
 textarea {
   background: transparent;
   border: none;
